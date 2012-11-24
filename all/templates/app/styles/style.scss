@@ -1,0 +1,15 @@
+﻿/**
+* Main project stylesheet combiner
+* 
+* Project name
+*
+* @section      Layout
+* @author       ldeleuran
+*/
+/* Include framework and normalization */
+@import "framework/vars.scss";
+@import "framework/framework.scss";
+@import "framework/normalize.scss";
+
+/* Include modules */
+@import "modules/baseline.scss";
